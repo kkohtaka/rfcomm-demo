@@ -1,0 +1,14 @@
+{
+  "name": "rfcomm-demo",
+  "version": "0.0.0",
+  "description": "Sample implementations of RFCOMM server and client",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kohtaka/rfcomm-demo.git"
+  },
+  "author": "Kazumasa Kohtaka <kkohtaka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kohtaka/rfcomm-demo/issues"
+  }
+}
